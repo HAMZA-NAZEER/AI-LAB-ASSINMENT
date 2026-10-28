@@ -1,5 +1,4 @@
-# lab2_model.py
-# Stateful control agent: remembers the previous target mode.
+
 def target_mode(temperature, occupied, previous_mode=None):
     if occupied and temperature > 25:
         target = "COOL"
