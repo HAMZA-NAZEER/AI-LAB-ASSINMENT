@@ -1,7 +1,4 @@
 import heapq
-
-# Controlled weighted extension of the original graph.
-# Added corridor C -> G. Weights are nonnegative travel-cost units.
 graph = {
     "A":[("B",1),("C",2)],
     "B":[("D",1),("E",1)],
