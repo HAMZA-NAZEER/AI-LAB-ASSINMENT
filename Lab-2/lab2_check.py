@@ -1,4 +1,4 @@
-# lab2_check.py
+
 from lab2_model import target_mode
 
 cases = [
