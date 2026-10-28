@@ -1,5 +1,4 @@
-# lab1_compare.py
-# A small demonstration that conversational fluency is not proof of general intelligence.
+
 
 examples = [
     ("Fluent but incorrect", "What is 17 x 19?", "The system gives a confident but incorrect answer."),
