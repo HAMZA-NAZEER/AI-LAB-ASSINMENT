@@ -1,6 +1,4 @@
-# lab1_rules.py
-# Rule-based scholarship screening example.
-# Thresholds are synthetic lab assumptions.
+
 
 def evaluate_case(score, complete, attendance, disciplinary_issue):
     reasons = []
